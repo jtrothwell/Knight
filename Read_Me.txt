@@ -1,4 +1,8 @@
 This batch of files allows users to replicate and extend the analysis in Jonathan Rothwell, "Biased News Media or Biased Readers? An Experiment in Trust" (New York Times, Upshot, Sept 26 2018).
+https://www.nytimes.com/2018/09/26/upshot/biased-news-media-or-biased-readers-an-experiment-on-trust.html
+
+Raw data can be downloaded from here
+https://knight.app.box.com/s/wr5xetlgrvb6qhnqyren6fsdbt0jrvme
 
 STATA users can directly import the .dta file from the relevant directory and run the analysis in the file "Upshot_Analysis_Public_Release.do". 
 Non-STATA users can open this as a .txt file and view coding, most of which will be easy to understand for users of R, SPSS, or other programs.
